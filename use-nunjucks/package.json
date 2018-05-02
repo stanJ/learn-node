@@ -1,0 +1,17 @@
+{
+  "name": "use-nunjucks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nunjucks"
+  ],
+  "author": "Stan Jiao",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "nunjucks": "^3.0.1"
+  }
+}
